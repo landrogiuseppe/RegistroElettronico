@@ -1,2 +1,0 @@
-# RegistroElettronico
-Registro Elettronico
