@@ -1,4 +1,4 @@
-package org.solution.school.registroelettronico;
+package org.solution.registroelettronico;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
